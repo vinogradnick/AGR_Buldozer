@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -std=c++17 -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/opt/openssl@1.1/lib CMakeFiles/AGR_Buldozer_Server.dir/server.cpp.o  -o AGR_Buldozer_Server  ../../libRequests.a ../../../libs/yaml-cpp/libyaml-cpp.a 

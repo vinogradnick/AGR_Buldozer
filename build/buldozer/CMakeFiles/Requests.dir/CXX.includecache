@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vinograd/AGR_Buldozer/buldozer/src/Requests/RequestProtocol.cpp
+RequestProtocol.h
+/Users/vinograd/AGR_Buldozer/buldozer/src/Requests/RequestProtocol.h
+
+/Users/vinograd/AGR_Buldozer/buldozer/src/Requests/RequestProtocol.h
+
